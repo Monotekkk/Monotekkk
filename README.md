@@ -56,7 +56,7 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monotekkk&theme=dark" height="220" alt="streak graph"  />
 </div>
-<div align="center">
+<div align="center" gap="22px">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monotekkk&theme=dark" height="220" alt="streak graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monotekkk&theme=dark" height="220" alt="streak graph"  />
 </div>
