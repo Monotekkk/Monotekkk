@@ -58,7 +58,6 @@
 </div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monotekkk&theme=dark" height="220" alt="streak graph" />
-   <img width="22">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monotekkk&theme=dark" height="220" alt="streak graph"  />
 </div>
 <!--
