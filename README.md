@@ -1,6 +1,6 @@
 
 ###
-## Hi, my name is Timur Yakhin 👋
+## Привет👋 Меня зовут Тимур!
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ptY3E0NXR2Ym8zdW16MW5oN3hzMTE3dTN0MXJtMnpjNjduZXgxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width='200px'/>
 </div>
@@ -19,7 +19,7 @@
 
 ###
 
-## 👩‍💻  Обо мне
+## 👩‍💻 Обо мне:
 
 ###
 
@@ -28,6 +28,22 @@
 
 В 2022 году продолжил самостоятельное изучение языков, а затем прошел курс “Веб разработчик плюс” от Яндекс Практикума, который успешно завершил. В настоящее время активно ищу работу и нацелен на развитие в области Frontend разработки.
 </p>
+
+## 🛠 Технологии:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+</div>
 <!--
 **Monotekkk/Monotekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
