@@ -57,8 +57,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monotekkk&theme=dark" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monotekkk&theme=dark" height="110" alt="streak graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monotekkk&theme=dark" height="110" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Monotekkk&theme=dark" height="220" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Monotekkk&theme=dark" height="220" alt="streak graph"  />
 </div>
 <!--
 **Monotekkk/Monotekkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
